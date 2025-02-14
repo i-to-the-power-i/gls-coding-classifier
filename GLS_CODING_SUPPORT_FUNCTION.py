@@ -233,11 +233,11 @@ def GLS_CODING_FIT_SECOND_UPDATED(X_train_norm, y_train, threshold):
             sizes.append(compressed_size_of_interval(interval))
     
     # Store per-sample results for the class.
-    class_probabilities[class_label] = probabilities_list
-    class_intervals[class_label] = intervals_list
-    class_initial_val[class_label] = initial_val_list
-    compressed_file_size[class_label] = np.abs(sizes)
-    train_data_compressed_file_size.append(np.mean(np.abs(sizes)))
+        class_probabilities[class_label] = probabilities_list
+        class_intervals[class_label] = intervals_list
+        class_initial_val[class_label] = initial_val_list
+        compressed_file_size[class_label] = np.abs(sizes)
+        train_data_compressed_file_size.append(np.mean(np.abs(sizes)))
     return (class_probabilities, class_intervals, class_initial_val, 
             compressed_file_size, train_data_compressed_file_size, avg_class_probabilities)
 
