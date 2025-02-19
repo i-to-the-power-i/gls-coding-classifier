@@ -1,5 +1,3 @@
-Here’s an improved **README.md** that reflects your repository structure while enhancing clarity and usability.  
-
 ---
 
 # **GLS Coding Compression Classifier**  
