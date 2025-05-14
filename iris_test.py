@@ -1,16 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Feb 17 22:57:15 2025
 
-@author: harik
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Feb 17 17:37:27 2025
-
-@author: harik
-"""
 
 import numpy as np
 from sklearn import datasets
