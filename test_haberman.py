@@ -1,11 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Feb 10 08:48:31 2025
 
-@author: harik
-"""
-
-# -*- coding: utf-8 -*-
 
 import numpy as np
 import os
