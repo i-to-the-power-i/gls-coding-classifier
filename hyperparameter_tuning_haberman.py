@@ -1,16 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Feb 10 09:03:03 2025
 
-@author: harik
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Feb 10 08:42:57 2025
-
-@author: harik
-"""
 
 
 import numpy as np
