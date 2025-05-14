@@ -69,11 +69,7 @@ The repository includes several benchmark datasets stored in `.txt` format:
 - **Seeds** (`seeds_dataset.txt`)  
 - **Haberman’s Survival** (`haberman.txt`)  
 
-## **🔬 Authors**  
-- **Harikrishnan NB**  
-- **Anuja Vats**  
-- **Nithin Nagaraj**  
-- **Marius Pedersen**  
+
 
 ## **📜 License**  
 This project is licensed under the **Apache-2.0 License**.  
