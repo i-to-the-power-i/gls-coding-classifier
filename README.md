@@ -4,8 +4,7 @@
 # **GLS Coding Compression Classifier**  
 A novel classification algorithm based on **Generalized Lüroth Series (GLS) coding** for data classification.  
 
-## **📌 Overview**  
-This repository provides an implementation of the **GLS Coding Compression Classifier**: Check the arxiv report to know more: https://arxiv.org/pdf/2502.12302
+
  
 
 ## **📂 Repository Structure**  
